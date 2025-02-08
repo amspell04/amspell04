@@ -5,7 +5,6 @@ Visit the link below to view my portfolio in a fun space:
   https://amspell04.github.io/ameliamspellportfolio/ 
 
 ## Programming Experience:
-## Programming Experience:
 ![Java](https://img.shields.io/badge/Java-ffc8dd?style=flat-square&logo=java&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-cdb4db?style=flat-square&logo=css3&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-ffafcc?style=flat-square&logo=html5&logoColor=black)
