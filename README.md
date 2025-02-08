@@ -1,4 +1,16 @@
-## Hi there 👋
+
+## Hi there, my name is **Amelia Spell**, welcome to my GitHub profile! 
+
+## Please explore my projects! 
+  Visit https://amspell04.github.io/ameliamspellportfolio/ to view my portfolio site directly.
+
+## Programming Experience:
+
+
+## I am currently working on...
+  Strengthening my full stack development skills! This semester I am learning how to write API specifications, configure development environments, write effective documentation in MarkDown, and develop in Swift! I am excited for the semester and the new projects I will be able to showcase here applying my knowledge!
+
+## Fun fact:  
 
 <!--
 **amspell04/amspell04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
