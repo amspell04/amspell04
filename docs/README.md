@@ -1,8 +1,7 @@
 
 ## Hi there, my name is **Amelia Spell**, welcome to my GitHub profile! 
 
-## Please explore my projects! 
-  Visit https://amspell04.github.io/ameliamspellportfolio/ to view my portfolio site directly.
+    Visit https://amspell04.github.io/ameliamspellportfolio/ to view my portfolio site directly.
 
 ## Programming Experience:
 
