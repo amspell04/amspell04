@@ -2,7 +2,6 @@ site_name: My GitHub ReadME
 theme:
   name: mkdocs
   features:
-    - content.code.copy
-    - content.code.annotate
+    
 
 markdown_extensions:
